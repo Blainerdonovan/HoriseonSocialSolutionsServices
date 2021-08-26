@@ -6,4 +6,4 @@ Other nav bar buttons are working so Line 30 the div element was class and chang
 
 Added semantics for header and footer
 
-Changed div to nav semantics
+Changed div to nav semantics in html and updated CSS elements
