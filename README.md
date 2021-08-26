@@ -9,3 +9,5 @@ Added semantics for header and footer
 Changed div to nav semantics in html and updated CSS elements
 
 Changed div line 55 and 77 to aside semantic
+
+Changed div line 31 and 54 in html to section
