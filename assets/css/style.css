@@ -43,6 +43,7 @@ body {
 }
 
 /* Moved three styles regarding the jump link buttons to correct position */
+/* Consolidated these three elements to take away redundant */
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
