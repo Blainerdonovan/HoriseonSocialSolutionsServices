@@ -43,25 +43,7 @@ body {
 }
 
 /* Moved three styles regarding the jump link buttons to correct position */
-#search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#social-media-marketing {
+#search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -82,6 +64,7 @@ body {
     max-height: 200px;
 }
 
+/* sect1 class relating to h2 to consilidate the CSS due to extra lines */
 .sect1 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -147,6 +130,8 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
+
+/* sect2 class relating to h3 to consilidate the CSS due to extra lines */
 
 .sect2 {
     margin-bottom: 10px;

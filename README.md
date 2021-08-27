@@ -18,9 +18,12 @@ Element nav was updated in CSS so respective list are referenced correctly.
 
 Adding img reference link including height and width, replaced that of the hero class in CSS.
     Returned height and width to CSS.
+    Changed height and width to 100%.
 
 Following CSS, class content was moved to follow the html placement.
 
 Correctly linked the section ID's referenced from nav to respective CSS upon correct placement of elements.
 
 Added alt attributes
+
+Added sect1 and sect2 classes to consolidate h2 and h3 in CSS
