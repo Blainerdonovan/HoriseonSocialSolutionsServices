@@ -43,7 +43,7 @@ body {
 }
 
 /* Moved three styles regarding the jump link buttons to correct position */
-/* Consolidated these three elements to take away redundant */
+/* Consolidated these three selectors to take away redundant elements */
 #search-engine-optimization, #online-reputation-management, #social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -53,19 +53,12 @@ body {
     color: #ffffff;
 }
 
-#search-engine-optimization img {
+/* Consolidated these three selectors to take away redundant elements */
+#search-engine-optimization img, #online-reputation-management img, #social-media-marketing img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
-
-/* sect1 class relating to h2 to consilidate the CSS due to extra lines */
+/* Class sect1 relating to h2 to consilidate the CSS due to extra lines */
 .sect1 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -132,26 +125,15 @@ p {
     color: #ffffff;
 }
 
-/* sect2 class relating to h3 to consilidate the CSS due to extra lines */
+/* Class sect2 relating to h3 to consilidate the CSS due to extra lines */
 
 .sect2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+/* Consolidated these three selectors to take away redundant elements */
+.aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
