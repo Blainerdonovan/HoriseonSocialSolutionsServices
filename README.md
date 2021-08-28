@@ -2,9 +2,9 @@
 
 Horiseon Social Solution Services
 
-Motiovations for this was to make the website more consistent, easier to use accessability, not only for the users, but for future coders, if new desings arise then may it be easier for the next to use. I learned how to clean up the code so it so that it is more identifiable, to continue checking the application was working, and to make sure it was finalized with Github. The comments should be clear on what was fixed in html and CSS.
+Motiovations for this was to make the website more consistent, accesability, not only for the users, but for future coders, if new desings arise then may it be easier for the next to use. I learned how to clean up the code so it so that it is more identifiable, to continue checking the application was working, and to make sure it was finalized with Github. The comments should be clear on what was fixed in html and CSS.
 
-Git Repository and README.md were created. Git add, commit, and push were completed frequently.Title was changed from website to Horiseon Social Solution Services. All link's are functioning correctly, selectors and properties are consolidated and organised to semantic structure. Comments are added to html and css and loads with no errors, better following conventions and identifications. Please find a link to deployed application here and a screen shot of the website.
+Git Repository and README.md were created. Git add, commit, and push were completed frequently.Title was changed from website to Horiseon Social Solution Services. All link's are functioning correctly, selectors and properties are consolidated and organised to semantic structure. Comments are added to html and css and loads with no errors, better following conventions and identifications. Please find a link to deployed application here and a screen shot of the website. 
 
 Deployed website:
 https://blainerdonovan.github.io/HoriseonSocialSolutionsServices/
@@ -24,7 +24,7 @@ section
 aside
 footer
 
-Nav bar button "search engine optimization" wasn't linking to respective section until id and class were added to the correct section.
+Nav bar button "search engine optimization" wasn't linking to respective section until id was added to the correct section.
     Removed class and added them as alt attributes.
 
 Element nav was updated in CSS so respective list are referenced correctly.
@@ -37,7 +37,9 @@ Following CSS, class content was moved to follow the html placement.
 
 Correctly linked the section ID's referenced from nav to respective CSS upon correct placement of elements.
 
-Added accessability attributes
+Added accessability attributes.
+
+Problem with path connection for favicon and digital marketing image, so referred to an image upload website. Linked those into the html and upon depolyment there were no more plroblems. 
 
 Consolidations in CSS were made to 
 Main sections elements
