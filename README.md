@@ -39,7 +39,7 @@ Correctly linked the section ID's referenced from nav to respective CSS upon cor
 
 Added accessability attributes.
 
-Problem with path connection for favicon and digital marketing image, so referred to an image upload website. Linked those into the html and upon depolyment there were no more plroblems. 
+Problem with path connection digital marketing image, so referred to an image upload website. Linked those into the html and upon depolyment there were no more plroblems. 
 
 Consolidations in CSS were made to 
 Main sections elements
